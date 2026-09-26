@@ -46,7 +46,7 @@ Ecommers-sales-customers-analysis/
 │
 ├── app.py
 ├── data/
-│   ├── cleaned_online_retail.csv
+│   ├── cleaned_online_retail.csv.gz
 │   ├── monthly_sales_dashboard.csv
 │   ├── top_products_dashboard.csv
 │   ├── top_countries_dashboard.csv
