@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Original/raw dataset files
+data/online+retail.zip
+data/Online Retail.xlsx
+data/online+retail/
+data/cleaned_online_retail.csv
+data/cleaned_online_retail.csv.gz
+
+# Streamlit
+.streamlit/secrets.toml
+
+# Virtual environment
+venv/
+.venv/
+
+# OS files
+.DS_Store
+Thumbs.db
