@@ -6,12 +6,13 @@ This project analyzes e-commerce sales and customer behavior using Python, Panda
 
 The project includes data cleaning, preprocessing, exploratory data analysis (EDA), customer analysis, product analysis, and an interactive Streamlit dashboard.
 
+
+- Python## Live Dashboard
 ## Live Dashboard
 
 [E-Commerce Sales Dashboard · Streamlit](https://geethareddy006-ecommers-sales-customers-analysis-app-8rk32m.streamlit.app/)
 ## 🛠️ Technologies Used
 
-- Python
 - Pandas
 - NumPy
 - Matplotlib
