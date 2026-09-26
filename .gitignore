@@ -10,7 +10,7 @@ data/online+retail.zip
 data/Online Retail.xlsx
 data/online+retail/
 data/cleaned_online_retail.csv
-data/cleaned_online_retail.csv.gz
+
 
 # Streamlit
 .streamlit/secrets.toml
