@@ -11,8 +11,12 @@ The project includes data cleaning, preprocessing, exploratory data analysis (ED
 ## Live Dashboard
 
 [E-Commerce Sales Dashboard · Streamlit](https://geethareddy006-ecommers-sales-customers-analysis-app-8rk32m.streamlit.app/)
-## 🛠️ Technologies Used
 
+## 📊 Dashboard Preview
+
+![E-Commerce Sales Dashboard](Screenshots/dashboard.png)
+
+## 🛠️ Technologies Used
 - Pandas
 - NumPy
 - Matplotlib
